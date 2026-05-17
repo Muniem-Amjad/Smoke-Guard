@@ -119,8 +119,8 @@ SmokeGuard/
 
 ## Author
 
-**Smoke & Gas Detector** designed & simulated by Muniem Amjad
-Simulated on Wokwi | Built with Arduino Uno
+- **Smoke & Gas Detector** designed & simulated by Muniem Amjad
+- Simulated on Wokwi | Built with Arduino Uno
 
 ---
 
