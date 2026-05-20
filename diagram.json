@@ -26,6 +26,34 @@
       "top": 50,
       "left": 550,
       "attrs": { "volume": "1", "mode": "piezo" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl1",
+      "top": 28.8,
+      "left": 57.6,
+      "attrs": { "text": "PIR Motion sensor" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl3",
+      "top": 48,
+      "left": 297.6,
+      "attrs": { "text": "LED Indicator" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl4",
+      "top": 28.8,
+      "left": 556.8,
+      "attrs": { "text": "Buzzer" }
+    },
+    {
+      "type": "wokwi-text",
+      "id": "lbl7",
+      "top": 297.6,
+      "left": 480,
+      "attrs": { "text": "ARDUINO UNO" }
     }
   ],
   "connections": [
